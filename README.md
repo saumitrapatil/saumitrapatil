@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m Saumitra
-- 👀 I’m very much interested in Linux and DevOps
+- 👀 I’m very interested in Linux and DevOps
 - 🌱 I'm currently learning Python, C and shell
 
 <h3 align="center"> Languages, Tools and Stats </h3>
