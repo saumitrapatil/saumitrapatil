@@ -1,7 +1,10 @@
-### Hi there 👋
-- 👋 Hi, I’m Saumitra
-- 👀 I’m very interested in Linux and DevOps
-- 🌱 I'm currently learning Python, C and shell
+### Hi
+- 👋 I’m Saumitra
+- 👀 I’m very interested in Linux and DevOps.
+- 📧 [saumitrapatil2703@gmail.com](mailto:[saumitrapatil2703@gmail.com])
+- 📝 CV: [View Resume](https://rxresu.me/saumitrapatil/dev-ops)
+- 💼 LinkedIn: [Saumitra Patil](www.linkedin.com/in/saumitrapatil)
+- 𝕏: [PatilSaumitra](https://x.com/PatilSaumitra)
 
 <h3 align="center"> Languages, Tools and Stats </h3>
 <p align="center"> 
