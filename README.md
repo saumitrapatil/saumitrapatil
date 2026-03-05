@@ -2,7 +2,7 @@
 - 👋 I’m Saumitra
 - 👀 I’m very interested in Linux and DevOps.
 - 📧 [saumitrapatil2703@gmail.com](mailto:[saumitrapatil2703@gmail.com])
-- 📝 CV: [View Resume](https://rxresu.me/saumitrapatil/dev-ops)
+- 📝 [View Resume](https://rxresu.me/saumitrapatil/devops-without-creds)
 - 💼 LinkedIn: [Saumitra Patil](www.linkedin.com/in/saumitrapatil)
 - 𝕏: [PatilSaumitra](https://x.com/PatilSaumitra)
 
