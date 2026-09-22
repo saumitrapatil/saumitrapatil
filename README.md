@@ -1,4 +1,4 @@
-[saumitrapatil.xyz](https://saumitrapatil.xyz) <br>
+[saumitrapatil.com](https://saumitrapatil.com) <br>
 [saumitrapatil2703@gmail.com](mailto:[saumitrapatil2703@gmail.com]) <br>
 [LinkedIn](www.linkedin.com/in/saumitrapatil) <br>
 [𝕏](https://x.com/PatilSaumitra) <br>
